@@ -13,6 +13,14 @@ We will use pollards kangaroo algorithm for this case because :
 
 ## Value of x
 
+```sh
+# run to run the attack
+sage attack.sage
+
+# To verify the attack run
+sage check.sage
+```
+
 ```python
-x = 
+x = 129741816436586536192511069033522723797805991085207391260653840826086090109
 ```
